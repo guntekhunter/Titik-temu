@@ -44,6 +44,7 @@ header nav ul{
     line-height: 2rem;
 }
 header nav ul li{
+    position: absolute;
     margin-left:2rem;
     list-style: none;
 
